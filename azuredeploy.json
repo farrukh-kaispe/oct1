@@ -274,7 +274,7 @@
             "properties": {
                 "addOnPackages": [
                     {
-                        "packageUri": "https://kspwebstorageaccount.blob.core.windows.net/oct1-2019/oct1-2019.zip?sp=r&st=2019-10-01T11:24:40Z&se=2019-10-30T19:24:40Z&spr=https&sv=2018-03-28&sig=ig0%2BTCQQOL4yHtlQzK%2F7ZgWkdGc5fgKV%2BDhh7b8NtiU%3D&sr=b"
+                        "packageUri": "https://kspwebstorageaccount.blob.core.windows.net/oct2/oct2.zip?sp=r&st=2019-10-02T04:56:39Z&se=2019-10-31T12:56:39Z&spr=https&sv=2018-03-28&sig=AfIsUPkQ%2FXjXmix9xZRAyXIJaco38CV%2FXZQShdn6nSk%3D&sr=b"
                     }
                 ]
             }
